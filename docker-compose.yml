@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
     ports:
       - "8080:80"
-    image: website
+    image: node-web-app
     container_name: website
     restart: unless-stopped
     networks:
@@ -35,7 +35,7 @@ volumes:
     driver_opts:
       type: none
       #fill out your absolute path to your folder here
-      device: /absolute/path/to/web/template/folder
+      device: /Users/mahin/Personal-Website-Mahinsa
       o: bind
 
 networks:
