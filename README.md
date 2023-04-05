@@ -1,4 +1,10 @@
-# cmsc388T-web-template
+# cmsc389T-Project 5
+
+My change is that I added another social media link on the bottom right corner.
+
+The webpages can be accessed at:
+1. https://mahinsa2345.github.io/Personal-Website-Mahinsa/ 
+2. https://terpconnect.umd.edu/~mahinsa/Personal-Website-Mahinsa/
 
 ## Color Family
 Light yellow: #FAF8D4
