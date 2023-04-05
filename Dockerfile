@@ -12,6 +12,8 @@ COPY package.json ./
 RUN npm install
 # COPY ./index.html /html
 # COPY --chown=node:node . .
-COPY . .
+# COPY . .
+FROM nginx
+COPY ./index.html /usr/share/nginx/html
 EXPOSE 8080
 CMD [ "node", "app.js" ]
