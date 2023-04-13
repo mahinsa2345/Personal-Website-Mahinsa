@@ -23,14 +23,14 @@ header {
   left: 0;
   width: 100%;
   z-index: 1000;
-  background: #655560;
+  background: #000000;
   padding: 2%;
   text-align: center;
 
 }
 
 .panel {
-  background-color: #655560;
+  background-color: #000000;
   color: #FCF7FF;
 
   width: 100%;
@@ -50,7 +50,7 @@ header {
 
 footer {
   display: flex;
-  background-color: #655560;
+  background-color: #000000;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -64,7 +64,7 @@ footer {
 }
 
 .leftFooter {
-  color: #655560;
+  color: #000000;
   font-size: 14px;
   margin: auto;
   padding-right: 30%;
@@ -73,7 +73,7 @@ footer {
 }
 
 .rightFooter {
-  color: #655560;
+  color: #000000;
   font-size: 120%;
   color: white;
 
@@ -97,16 +97,9 @@ a:active {
 }
 
 .rightFooterr {
-  color: #655560;
+  color: #000000;
   font-size: 120%;
   padding-right: 10%;
-  color: white;
-}
-
-.rightFooterrr {
-  color: #655560;
-  font-size: 120%;
-  padding-right: 12%;
   color: white;
 }
 
@@ -150,7 +143,7 @@ section:nth-child(1) {
 
 section:nth-child(2) {
 
-  background-color: #FCF7FF;
+  background-color: #111111;
 
 
 }
@@ -173,7 +166,7 @@ h3 {
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
-  background-color: #655560;
+  background-color: #000000;
 }
 
 /* Style the links inside the navigation bar */
@@ -218,7 +211,7 @@ h3 {
 .same-line {
   display: flex;
   justify-content: space-between;
-  background-color: #655560;
+  background-color: #000000;
 
 }
 
