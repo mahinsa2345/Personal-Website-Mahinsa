@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: Optima;
-  background-color: #FCF7FF;
+  background-color: #ececec;
 }
 
 .center {
@@ -148,7 +148,7 @@ section:nth-child(2) {
 
 section:nth-child(3) {
 
-  background: #C4CAD0
+  background: #d1d1d1
 }
 
 h2 {
@@ -161,6 +161,11 @@ h3 {
   margin: 0;
 }
 
+p {
+  font-size: 15px;
+  margin: 10;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   overflow: hidden;
@@ -170,7 +175,7 @@ h3 {
 /* Style the links inside the navigation bar */
 .topnav a {
   float: right;
-  color: #f2f2f2;
+  color: #ffffff;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -261,7 +266,7 @@ h3 {
   float: left;
   width: 33.33%;
   padding: 1%;
-  height: 50vh;
+  height: 60vh;
   /* Should be removed. Only for demonstration */
 }
 
